@@ -1,4 +1,5 @@
-## 联系方式
+## [点击查看所有内容](https://github.com/yangPojie/1/blob/master/README.md)
+
 ### QQ1: 1832213140 （暂时被冻结）
 ### QQ2: 2734273612  (暂时被冻结)
 
