@@ -1,9 +1,9 @@
 ## [点击查看所有内容](https://github.com/yangPojie/1/blob/master/README.md)
 
-### QQ1: 1832213140 （暂时被冻结）
+### QQ1: 1832213140
 ### QQ2: 2734273612  (暂时被冻结)
 
-> 暂时没有qq了，想续费的等几天。等不了的加我下面的potato账号
+> 如果QQ没有回应，请加我下面的potato账号
 
 ### Potato(土豆)账号: yy678
 
@@ -11,8 +11,8 @@
 
 #### 安装方式一：
 * AppStore搜索TestFlight安装该App。安装完成后使用苹果的AppleID登录好，才可进行下一步。
-* https://lynnconway.chat/apps 打开该网页
-* 在网页中，找到iOS版本，点击TestFlight按钮，会跳转到TestFlight App中，然后按照提示安装即可。
+* 在Safari中打开网页 https://testflight.apple.com/join/P2Jlp35o 。
+* 在网页顶部，有一个 “在'TestFlight'应用中打开”字样，点击打开会跳转到TestFlight App中，然后按照提示安装即可。
 
 提示：如果跳转到TestFlight App 中提示 ‘没有App可供测试’，返回网页中再点击一次TestFlight按钮即可。
 
