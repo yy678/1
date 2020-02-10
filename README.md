@@ -1,7 +1,6 @@
 ## [点击查看所有内容](https://github.com/yangPojie/1/blob/master/README.md)
 
-### QQ1: 1832213140
-### QQ2: 2734273612  (暂时被冻结)
+### QQ: 1832213140
 
 > 如果QQ没有回应，请加我下面的potato账号
 
