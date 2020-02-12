@@ -19,3 +19,5 @@
 
 #### 安装方式二：
 非大陆地区AppleID注册教程 https://help.alanturing.me/p/download.html
+
+### 商业接iOS软件破解，需要请联系
