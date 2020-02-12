@@ -1,4 +1,6 @@
-## [点击查看所有内容](https://github.com/yangPojie/1/blob/master/README.md)
+## [点击查看所有内容](https://github.com/yy678/1/blob/master/README.md)
+
+### 破解软件请添加以下方式联系
 
 ### QQ: 1832213140
 
