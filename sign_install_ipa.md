@@ -1,15 +1,5 @@
 # 苹果手机安装ipa教程、破解版App的ipa文件
 
-## 越狱手机
-### 
-* 1、Cydia 添加 雷锋源 apt.abcydia.com
-* 2、搜索 ReProvision 安装
-* 3、打开ReProvision，登录好AppleId账号
-* 4、下载好ipa文件到手机后，点击分享按钮，使用ReProvision打开
-* 5、点击签名即可签名安装
-
-> 7天后会过期，可打开ReProvision直接续签
-
 ## 非越狱手机
 #### 在Windows电脑上用爱思助手签名ipa后安装
 https://www.i4.cn/news_detail_38195.html
@@ -22,6 +12,18 @@ https://www.jianshu.com/p/a224a5213b7d
 
 > 7天后会过期，需在电脑上执行以上教程里的操作
 
+## 越狱手机
+### 
+* 1、Cydia 添加 雷锋源 apt.abcydia.com
+* 2、搜索 ReProvision 安装
+* 3、打开ReProvision，登录好AppleId账号
+* 4、下载好ipa文件到手机后，点击分享按钮，使用ReProvision打开
+* 5、点击签名即可签名安装
+
+> 7天后会过期，可打开ReProvision直接续签
+
 ## 破解版ipa包
-#### 小奶猫App
+#### 小奶猫App（卡哇伊、小姐姐）
 链接: https://pan.baidu.com/s/1-VF7M9RKU9shuk7xfy45cg 提取码: xsit
+
+### [点击查看联系方式](https://github.com/yy678/1/blob/master/README_DETAIL.md)
