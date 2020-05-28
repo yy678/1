@@ -1,14 +1,14 @@
 # 苹果手机安装ipa教程、App的破解版ipa文件
 
-## 非越狱手机
-#### 在Windows电脑上用爱思助手签名ipa后安装
-https://www.i4.cn/news_detail_38195.html
+## 非越狱手机（正常的iPhone手机）
+#### 使用Windows电脑安装ipa
+安装教程 https://www.jianshu.com/p/34ebc46fd7fd
 
-> * Windows10以上成功 
-> * Windows7未成功，没有条件的可以尝试下
+> * Windows10以上成功；Windows7未成功，没有条件的可以尝试下
+> * 7天后会过期，需在电脑上执行以上教程里的操作
 
-#### 在Mac电脑上用AltDeploy签名ipa并安装
-https://www.jianshu.com/p/a224a5213b7d
+#### 使用Mac电脑安装ipa
+安装教程 https://www.jianshu.com/p/a224a5213b7d
 
 > 7天后会过期，需在电脑上执行以上教程里的操作
 
