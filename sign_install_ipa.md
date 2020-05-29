@@ -1,22 +1,22 @@
 # 小奶猫破解版ipa文件、苹果手机安装ipa教程
 
 #### 小奶猫App破解版（卡哇伊、小姐姐）
-!!!注意!!!：这是ipa包，需要你们自己签名后安装，下方有教程
 网盘地址: https://pan.baidu.com/s/1-VF7M9RKU9shuk7xfy45cg 提取码: xsit
+> !!!注意!!!：这是ipa包，需要你们自己签名后安装，下方有教程
 
 ## 非越狱手机（正常的iPhone手机）
-#### 使用Windows电脑安装ipa
+#### 使用Windows电脑给iPhone安装ipa
 安装教程 https://www.jianshu.com/p/34ebc46fd7fd
 
 > * Windows10以上成功；Windows7未成功，没有条件的可以尝试下
 > * 7天后会过期，需在电脑上执行以上教程里的操作
 
-#### 使用Mac电脑安装ipa
+#### 使用Mac电脑给iPhone安装ipa
 安装教程 https://www.jianshu.com/p/a224a5213b7d
 
 > 7天后会过期，需在电脑上执行以上教程里的操作
 
-## 越狱手机
+## 越狱iPhone手机
 ### 
 * 1、Cydia 添加 雷锋源 apt.abcydia.com
 * 2、搜索 ReProvision 安装
