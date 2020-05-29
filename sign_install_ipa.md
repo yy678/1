@@ -1,7 +1,7 @@
 # 小奶猫破解版ipa文件、苹果手机安装ipa教程
 
 #### 小奶猫App破解版（卡哇伊、小姐姐）
-网盘地址: https://pan.baidu.com/s/1-VF7M9RKU9shuk7xfy45cg 提取码: xsit
+网盘地址: https://pan.baidu.com/s/1GeWmN0xGLQ9c8EeGWsoD7A 提取码: q3c1
 > !!!注意!!!：这是ipa包，需要你们自己签名后安装，下方有教程
 
 ## 非越狱手机（正常的iPhone手机）
