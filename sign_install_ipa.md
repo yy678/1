@@ -1,4 +1,8 @@
-# 苹果手机安装ipa教程、App的破解版ipa文件
+# 小奶猫破解版ipa文件、苹果手机安装ipa教程
+
+#### 小奶猫App破解版（卡哇伊、小姐姐）
+!!!注意!!!：这是ipa包，需要你们自己签名后安装，下方有教程
+网盘地址: https://pan.baidu.com/s/1-VF7M9RKU9shuk7xfy45cg 提取码: xsit
 
 ## 非越狱手机（正常的iPhone手机）
 #### 使用Windows电脑安装ipa
@@ -22,8 +26,4 @@
 
 > 7天后会过期，可打开ReProvision直接续签
 
-## 破解版ipa包
-#### 小奶猫App（卡哇伊、小姐姐）
-链接: https://pan.baidu.com/s/1-VF7M9RKU9shuk7xfy45cg 提取码: xsit
-
-### [点击查看联系方式](https://github.com/yy678/1/blob/master/README_DETAIL.md)
+### [点击查看博主联系方式](https://github.com/yy678/1/blob/master/README_DETAIL.md)
