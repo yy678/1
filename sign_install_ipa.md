@@ -8,7 +8,7 @@
 #### 使用Windows电脑给iPhone安装ipa
 安装教程 https://www.jianshu.com/p/34ebc46fd7fd
 
-> * Windows10以上成功；Windows7未成功，没有条件的可以尝试下
+> * Windows10以上成功；Windows7未成功
 > * 7天后会过期，需在电脑上执行以上教程里的操作
 
 #### 使用Mac电脑给iPhone安装ipa
