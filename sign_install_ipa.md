@@ -6,7 +6,7 @@
 
 ## 非越狱手机（正常的iPhone手机）
 #### 使用Windows电脑给iPhone安装ipa
-安装教程 https://www.jianshu.com/p/34ebc46fd7fd
+安装教程 http://54sh.net/html/2769.html
 
 > * Windows10以上成功；Windows7未成功
 > * 7天后会过期，需在电脑上执行以上教程里的操作
